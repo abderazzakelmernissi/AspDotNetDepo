@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\2tdi A S A\ASPTPDEPOT1\bin\ASPTPDEPOT1.dll
+\\Mac\Home\Desktop\2tdi A S A\ASPTPDEPOT1\bin\ASPTPDEPOT1.pdb
+\\Mac\Home\Desktop\2tdi A S A\ASPTPDEPOT1\obj\Debug\ASPTPDEPOT1.dll
+\\Mac\Home\Desktop\2tdi A S A\ASPTPDEPOT1\obj\Debug\ASPTPDEPOT1.pdb
